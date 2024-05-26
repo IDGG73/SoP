@@ -1,5 +1,5 @@
 {
-    "cardTitle": "",
+    "cardTitle": "Desconocida",
     "infoCards": [
         "Conducción Alcoholizada",
         "Posesión de Marihuana"

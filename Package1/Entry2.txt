@@ -1,5 +1,5 @@
 {
-    "cardTitle": "",
+    "cardTitle": "Perenganita",
     "infoCards": [
         "Posesión de Drogas"
     ]
