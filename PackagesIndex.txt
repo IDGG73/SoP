@@ -1,0 +1,5 @@
+{
+    "packagesUrls": [
+        "https://idgg73.github.io/SoP/Package1"
+    ]
+}

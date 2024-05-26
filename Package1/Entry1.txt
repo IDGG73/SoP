@@ -1,0 +1,6 @@
+{
+    "cardTitle": "",
+    "infoCards": [
+        "Agresión Doméstica"
+    ]
+}
