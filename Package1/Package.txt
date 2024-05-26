@@ -1,0 +1,4 @@
+{
+	"packageName": "Bad Bitches",
+	"entriesAmount": 3
+}
