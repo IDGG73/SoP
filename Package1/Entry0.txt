@@ -1,7 +1,7 @@
 {
     "cardTitle": "Desconocida",
     "infoCards": [
-        "Conducción Alcoholizada",
-        "Posesión de Marihuana"
+        "Conducir en Estado de Ebriedad.",
+        "Posesión de Marihuana."
     ]
 }
